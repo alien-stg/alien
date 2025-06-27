@@ -1,4 +1,4 @@
-# alien
+## alien
 about me
 - fshs student
 - does ct as an elective
