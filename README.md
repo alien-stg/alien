@@ -1,5 +1,5 @@
 # alien👽
-##about me
+about me
 - fshs student
 - does ct as an elective
 - has a cat
